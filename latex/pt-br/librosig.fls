@@ -1,0 +1,557 @@
+PWD d:\Users\Melanda\Documents\GitHub\gis-book-ptbr\latex\pt-br
+INPUT C:\Users\Melanda\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Users\Melanda\Documents\GitHub\gis-book-ptbr\latex\pt-br\librosig.tex
+OUTPUT librosig.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\bk12.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\bk12.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\bk12.clo
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\babel-portuges\portuguese.ldf
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\babel-portuges\portuguese.ldf
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\babel-portuges\portuguese.ldf
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\pt\babel-portuguese.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\pt\babel-portuguese.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\pt\babel-portuguese.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\pt\babel-pt.ini
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\nowidow\nowidow.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\nowidow\nowidow.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\bookmark\bookmark.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\bookmark\bookmark.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Melanda\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\librosig.aux
+INPUT .\librosig.aux
+INPUT librosig.aux
+INPUT .\Introducao\Introduccion.aux
+INPUT .\Introducao\Introduccion.aux
+INPUT Introducao\Introduccion.aux
+INPUT .\Historia\Historia.aux
+INPUT .\Historia\Historia.aux
+INPUT Historia\Historia.aux
+INPUT .\Fundamentos_cartograficos\Fundamentos_cartograficos.aux
+INPUT .\Fundamentos_cartograficos\Fundamentos_cartograficos.aux
+INPUT Fundamentos_cartograficos\Fundamentos_cartograficos.aux
+INPUT .\Dados\Datos.aux
+INPUT .\Dados\Datos.aux
+INPUT Dados\Datos.aux
+INPUT .\Fontes_dados\Fuentes_datos.aux
+INPUT .\Fontes_dados\Fuentes_datos.aux
+INPUT Fontes_dados\Fuentes_datos.aux
+INPUT .\Software\Software.aux
+INPUT .\Software\Software.aux
+INPUT Software\Software.aux
+INPUT .\Bases_dados\Bases_datos.aux
+INPUT .\Bases_dados\Bases_datos.aux
+INPUT Bases_dados\Bases_datos.aux
+INPUT .\Analises\Analisis.aux
+INPUT .\Analises\Analisis.aux
+INPUT Analises\Analisis.aux
+INPUT .\Visualizacao\Visualizacion.aux
+INPUT .\Visualizacao\Visualizacion.aux
+INPUT Visualizacao\Visualizacion.aux
+OUTPUT librosig.aux
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+OUTPUT librosig.pdf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
+INPUT C:\Users\Melanda\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm0800.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti8.tfm
+INPUT .\prefacio.tex
+INPUT .\prefacio.tex
+INPUT .\prefacio.tex
+INPUT .\prefacio.tex
+INPUT prefacio.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
+INPUT .\prologo.tex
+INPUT .\prologo.tex
+INPUT .\prologo.tex
+INPUT .\prologo.tex
+INPUT prologo.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
+INPUT .\foreword.tex
+INPUT .\foreword.tex
+INPUT .\foreword.tex
+INPUT .\foreword.tex
+INPUT foreword.tex
+INPUT .\librosig.toc
+INPUT .\librosig.toc
+INPUT librosig.toc
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+OUTPUT librosig.toc
+INPUT .\Introducao\Introduccion.tex
+INPUT .\Introducao\Introduccion.tex
+OUTPUT Introducao\Introduccion.aux
+INPUT .\Introducao\Introduccion.tex
+INPUT .\Introducao\Introduccion.tex
+INPUT Introducao\Introduccion.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
+INPUT .\Historia\Historia.tex
+INPUT .\Historia\Historia.tex
+OUTPUT Historia\Historia.aux
+INPUT .\Historia\Historia.tex
+INPUT .\Historia\Historia.tex
+INPUT Historia\Historia.tex
+INPUT .\Fundamentos_cartograficos\Fundamentos_cartograficos.tex
+INPUT .\Fundamentos_cartograficos\Fundamentos_cartograficos.tex
+OUTPUT Fundamentos_cartograficos\Fundamentos_cartograficos.aux
+INPUT .\Fundamentos_cartograficos\Fundamentos_cartograficos.tex
+INPUT .\Fundamentos_cartograficos\Fundamentos_cartograficos.tex
+INPUT Fundamentos_cartograficos\Fundamentos_cartograficos.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsl12.tfm
+INPUT .\Fundamentos_cartograficos\Tres_superficies.pdf
+INPUT .\Fundamentos_cartograficos\Tres_superficies.pdf
+INPUT .\Fundamentos_cartograficos\Tres_superficies.pdf
+INPUT .\Fundamentos_cartograficos\Tres_superficies.pdf
+INPUT .\Fundamentos_cartograficos\Tres_superficies.pdf
+INPUT .\Fundamentos_cartograficos\Tres_superficies.pdf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT .\Fundamentos_cartograficos\Proyeccion.pdf
+INPUT .\Fundamentos_cartograficos\Proyeccion.pdf
+INPUT .\Fundamentos_cartograficos\Proyeccion.pdf
+INPUT .\Fundamentos_cartograficos\Proyeccion.pdf
+INPUT .\Fundamentos_cartograficos\Proyeccion.pdf
+INPUT .\Fundamentos_cartograficos\Proyeccion.pdf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT .\Fundamentos_cartograficos\Generalizacion_agregacion.png
+INPUT .\Fundamentos_cartograficos\Generalizacion_agregacion.png
+INPUT .\Fundamentos_cartograficos\Generalizacion_agregacion.png
+INPUT .\Fundamentos_cartograficos\Generalizacion_agregacion.png
+INPUT .\Fundamentos_cartograficos\Generalizacion_agregacion.png
+INPUT .\Fundamentos_cartograficos\Generalizacion_agregacion.png
+INPUT .\Fundamentos_cartograficos\Generalizacion_agregacion.png
+INPUT .\Fundamentos_cartograficos\SIG_multi_escala.png
+INPUT .\Fundamentos_cartograficos\SIG_multi_escala.png
+INPUT .\Fundamentos_cartograficos\SIG_multi_escala.png
+INPUT .\Fundamentos_cartograficos\SIG_multi_escala.png
+INPUT .\Fundamentos_cartograficos\SIG_multi_escala.png
+INPUT .\Fundamentos_cartograficos\SIG_multi_escala.png
+INPUT .\Fundamentos_cartograficos\SIG_multi_escala.png
+INPUT .\Dados\Datos.tex
+INPUT .\Dados\Datos.tex
+OUTPUT Dados\Datos.aux
+INPUT .\Dados\Datos.tex
+INPUT .\Dados\Datos.tex
+INPUT Dados\Datos.tex
+INPUT .\dados\Dimensiones.pdf
+INPUT .\dados\Dimensiones.pdf
+INPUT .\dados\Dimensiones.pdf
+INPUT .\dados\Dimensiones.pdf
+INPUT .\dados\Dimensiones.pdf
+INPUT .\dados\Dimensiones.pdf
+INPUT .\dados\Concepto_capa.png
+INPUT .\dados\Concepto_capa.png
+INPUT .\dados\Concepto_capa.png
+INPUT .\dados\Concepto_capa.png
+INPUT .\dados\Concepto_capa.png
+INPUT .\dados\Concepto_capa.png
+INPUT .\dados\Concepto_capa.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT .\dados\Raster_closeup.png
+INPUT .\dados\Raster_closeup.png
+INPUT .\dados\Raster_closeup.png
+INPUT .\dados\Raster_closeup.png
+INPUT .\dados\Raster_closeup.png
+INPUT .\dados\Raster_closeup.png
+INPUT .\dados\Raster_closeup.png
+INPUT .\dados\Primitivas_vectoriales.pdf
+INPUT .\dados\Primitivas_vectoriales.pdf
+INPUT .\dados\Primitivas_vectoriales.pdf
+INPUT .\dados\Primitivas_vectoriales.pdf
+INPUT .\dados\Primitivas_vectoriales.pdf
+INPUT .\dados\Primitivas_vectoriales.pdf
+INPUT .\dados\Topologia_vias.pdf
+INPUT .\dados\Topologia_vias.pdf
+INPUT .\dados\Topologia_vias.pdf
+INPUT .\dados\Topologia_vias.pdf
+INPUT .\dados\Topologia_vias.pdf
+INPUT .\dados\Topologia_vias.pdf
+INPUT .\dados\Esquemas_modelos_representacion.pdf
+INPUT .\dados\Esquemas_modelos_representacion.pdf
+INPUT .\dados\Esquemas_modelos_representacion.pdf
+INPUT .\dados\Esquemas_modelos_representacion.pdf
+INPUT .\dados\Esquemas_modelos_representacion.pdf
+INPUT .\dados\Esquemas_modelos_representacion.pdf
+INPUT .\dados\Imprecision_raster.png
+INPUT .\dados\Imprecision_raster.png
+INPUT .\dados\Imprecision_raster.png
+INPUT .\dados\Imprecision_raster.png
+INPUT .\dados\Imprecision_raster.png
+INPUT .\dados\Imprecision_raster.png
+INPUT .\dados\Imprecision_raster.png
+INPUT .\Fontes_dados\Fuentes_datos.tex
+INPUT .\Fontes_dados\Fuentes_datos.tex
+OUTPUT Fontes_dados\Fuentes_datos.aux
+INPUT .\Fontes_dados\Fuentes_datos.tex
+INPUT .\Fontes_dados\Fuentes_datos.tex
+INPUT Fontes_dados\Fuentes_datos.tex
+INPUT .\Fontes_dados\Elementos_teledeteccion.pdf
+INPUT .\Fontes_dados\Elementos_teledeteccion.pdf
+INPUT .\Fontes_dados\Elementos_teledeteccion.pdf
+INPUT .\Fontes_dados\Elementos_teledeteccion.pdf
+INPUT .\Fontes_dados\Elementos_teledeteccion.pdf
+INPUT .\Fontes_dados\Elementos_teledeteccion.pdf
+INPUT .\Fontes_dados\Imprecisiones_digitalizacion.pdf
+INPUT .\Fontes_dados\Imprecisiones_digitalizacion.pdf
+INPUT .\Fontes_dados\Imprecisiones_digitalizacion.pdf
+INPUT .\Fontes_dados\Imprecisiones_digitalizacion.pdf
+INPUT .\Fontes_dados\Imprecisiones_digitalizacion.pdf
+INPUT .\Fontes_dados\Imprecisiones_digitalizacion.pdf
+INPUT .\Software\Software.tex
+INPUT .\Software\Software.tex
+OUTPUT Software\Software.aux
+INPUT .\Software\Software.tex
+INPUT .\Software\Software.tex
+INPUT Software\Software.tex
+INPUT .\Software\Herramientas_navegacion.png
+INPUT .\Software\Herramientas_navegacion.png
+INPUT .\Software\Herramientas_navegacion.png
+INPUT .\Software\Herramientas_navegacion.png
+INPUT .\Software\Herramientas_navegacion.png
+INPUT .\Software\Herramientas_navegacion.png
+INPUT .\Software\Herramientas_navegacion.png
+INPUT .\Software\Serie_mapas.png
+INPUT .\Software\Serie_mapas.png
+INPUT .\Software\Serie_mapas.png
+INPUT .\Software\Serie_mapas.png
+INPUT .\Software\Serie_mapas.png
+INPUT .\Software\Serie_mapas.png
+INPUT .\Software\Serie_mapas.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT .\Software\Asi_funciona_internet.pdf
+INPUT .\Software\Asi_funciona_internet.pdf
+INPUT .\Software\Asi_funciona_internet.pdf
+INPUT .\Software\Asi_funciona_internet.pdf
+INPUT .\Software\Asi_funciona_internet.pdf
+INPUT .\Software\Asi_funciona_internet.pdf
+INPUT .\Software\Datos_y_procesos_remotos.png
+INPUT .\Software\Datos_y_procesos_remotos.png
+INPUT .\Software\Datos_y_procesos_remotos.png
+INPUT .\Software\Datos_y_procesos_remotos.png
+INPUT .\Software\Datos_y_procesos_remotos.png
+INPUT .\Software\Datos_y_procesos_remotos.png
+INPUT .\Software\Datos_y_procesos_remotos.png
+INPUT .\Software\Tiling.pdf
+INPUT .\Software\Tiling.pdf
+INPUT .\Software\Tiling.pdf
+INPUT .\Software\Tiling.pdf
+INPUT .\Software\Tiling.pdf
+INPUT .\Software\Tiling.pdf
+INPUT .\Software\Esquema_no_interoperable.pdf
+INPUT .\Software\Esquema_no_interoperable.pdf
+INPUT .\Software\Esquema_no_interoperable.pdf
+INPUT .\Software\Esquema_no_interoperable.pdf
+INPUT .\Software\Esquema_no_interoperable.pdf
+INPUT .\Software\Esquema_no_interoperable.pdf
+INPUT .\Software\Esquema_interoperable.pdf
+INPUT .\Software\Esquema_interoperable.pdf
+INPUT .\Software\Esquema_interoperable.pdf
+INPUT .\Software\Esquema_interoperable.pdf
+INPUT .\Software\Esquema_interoperable.pdf
+INPUT .\Software\Esquema_interoperable.pdf
+INPUT .\Bases_dados\Bases_datos.tex
+INPUT .\Bases_dados\Bases_datos.tex
+OUTPUT Bases_dados\Bases_datos.aux
+INPUT .\Bases_dados\Bases_datos.tex
+INPUT .\Bases_dados\Bases_datos.tex
+INPUT Bases_dados\Bases_datos.tex
+INPUT .\Bases_dados\Seleccion_rectangulo.png
+INPUT .\Bases_dados\Seleccion_rectangulo.png
+INPUT .\Bases_dados\Seleccion_rectangulo.png
+INPUT .\Bases_dados\Seleccion_rectangulo.png
+INPUT .\Bases_dados\Seleccion_rectangulo.png
+INPUT .\Bases_dados\Seleccion_rectangulo.png
+INPUT .\Bases_dados\Seleccion_rectangulo.png
+INPUT .\Analises\Analisis.tex
+INPUT .\Analises\Analisis.tex
+OUTPUT Analises\Analisis.aux
+INPUT .\Analises\Analisis.tex
+INPUT .\Analises\Analisis.tex
+INPUT Analises\Analisis.tex
+INPUT .\Analises\Interseccion.pdf
+INPUT .\Analises\Interseccion.pdf
+INPUT .\Analises\Interseccion.pdf
+INPUT .\Analises\Interseccion.pdf
+INPUT .\Analises\Interseccion.pdf
+INPUT .\Analises\Interseccion.pdf
+INPUT .\Analises\Conversiones.png
+INPUT .\Analises\Conversiones.png
+INPUT .\Analises\Conversiones.png
+INPUT .\Analises\Conversiones.png
+INPUT .\Analises\Conversiones.png
+INPUT .\Analises\Conversiones.png
+INPUT .\Analises\Conversiones.png
+INPUT .\Analises\Escalas_formas_terreno.pdf
+INPUT .\Analises\Escalas_formas_terreno.pdf
+INPUT .\Analises\Escalas_formas_terreno.pdf
+INPUT .\Analises\Escalas_formas_terreno.pdf
+INPUT .\Analises\Escalas_formas_terreno.pdf
+INPUT .\Analises\Escalas_formas_terreno.pdf
+INPUT .\Analises\Medida_linea_fractal.pdf
+INPUT .\Analises\Medida_linea_fractal.pdf
+INPUT .\Analises\Medida_linea_fractal.pdf
+INPUT .\Analises\Medida_linea_fractal.pdf
+INPUT .\Analises\Medida_linea_fractal.pdf
+INPUT .\Analises\Medida_linea_fractal.pdf
+INPUT .\Analises\Autocorrelacion_espacial.png
+INPUT .\Analises\Autocorrelacion_espacial.png
+INPUT .\Analises\Autocorrelacion_espacial.png
+INPUT .\Analises\Autocorrelacion_espacial.png
+INPUT .\Analises\Autocorrelacion_espacial.png
+INPUT .\Analises\Autocorrelacion_espacial.png
+INPUT .\Analises\Autocorrelacion_espacial.png
+INPUT .\Visualizacao\Visualizacion.tex
+INPUT .\Visualizacao\Visualizacion.tex
+OUTPUT Visualizacao\Visualizacion.aux
+INPUT .\Visualizacao\Visualizacion.tex
+INPUT .\Visualizacao\Visualizacion.tex
+INPUT Visualizacao\Visualizacion.tex
+INPUT .\Visualizacao\VariablesVisuales.pdf
+INPUT .\Visualizacao\VariablesVisuales.pdf
+INPUT .\Visualizacao\VariablesVisuales.pdf
+INPUT .\Visualizacao\VariablesVisuales.pdf
+INPUT .\Visualizacao\VariablesVisuales.pdf
+INPUT .\Visualizacao\VariablesVisuales.pdf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT .\Visualizacao\JerarquiaMapa.png
+INPUT .\Visualizacao\JerarquiaMapa.png
+INPUT .\Visualizacao\JerarquiaMapa.png
+INPUT .\Visualizacao\JerarquiaMapa.png
+INPUT .\Visualizacao\JerarquiaMapa.png
+INPUT .\Visualizacao\JerarquiaMapa.png
+INPUT .\Visualizacao\JerarquiaMapa.png
+INPUT .\Visualizacao\TiposIntervalosClases.pdf
+INPUT .\Visualizacao\TiposIntervalosClases.pdf
+INPUT .\Visualizacao\TiposIntervalosClases.pdf
+INPUT .\Visualizacao\TiposIntervalosClases.pdf
+INPUT .\Visualizacao\TiposIntervalosClases.pdf
+INPUT .\Visualizacao\TiposIntervalosClases.pdf
+INPUT .\Visualizacao\ElementosMapa.png
+INPUT .\Visualizacao\ElementosMapa.png
+INPUT .\Visualizacao\ElementosMapa.png
+INPUT .\Visualizacao\ElementosMapa.png
+INPUT .\Visualizacao\ElementosMapa.png
+INPUT .\Visualizacao\ElementosMapa.png
+INPUT .\Visualizacao\ElementosMapa.png
+INPUT .\Visualizacao\EjemplosLeyendaSimbolosProporcionales.pdf
+INPUT .\Visualizacao\EjemplosLeyendaSimbolosProporcionales.pdf
+INPUT .\Visualizacao\EjemplosLeyendaSimbolosProporcionales.pdf
+INPUT .\Visualizacao\EjemplosLeyendaSimbolosProporcionales.pdf
+INPUT .\Visualizacao\EjemplosLeyendaSimbolosProporcionales.pdf
+INPUT .\Visualizacao\EjemplosLeyendaSimbolosProporcionales.pdf
+INPUT .\Visualizacao\MapaPuntos.png
+INPUT .\Visualizacao\MapaPuntos.png
+INPUT .\Visualizacao\MapaPuntos.png
+INPUT .\Visualizacao\MapaPuntos.png
+INPUT .\Visualizacao\MapaPuntos.png
+INPUT .\Visualizacao\MapaPuntos.png
+INPUT .\Visualizacao\MapaPuntos.png
+INPUT .\Visualizacao\Isolineas.png
+INPUT .\Visualizacao\Isolineas.png
+INPUT .\Visualizacao\Isolineas.png
+INPUT .\Visualizacao\Isolineas.png
+INPUT .\Visualizacao\Isolineas.png
+INPUT .\Visualizacao\Isolineas.png
+INPUT .\Visualizacao\Isolineas.png
+INPUT .\Visualizacao\CombinacionCapas.png
+INPUT .\Visualizacao\CombinacionCapas.png
+INPUT .\Visualizacao\CombinacionCapas.png
+INPUT .\Visualizacao\CombinacionCapas.png
+INPUT .\Visualizacao\CombinacionCapas.png
+INPUT .\Visualizacao\CombinacionCapas.png
+INPUT .\Visualizacao\CombinacionCapas.png
+INPUT .\Visualizacao\ProblemasRepresentacionSimbolos.pdf
+INPUT .\Visualizacao\ProblemasRepresentacionSimbolos.pdf
+INPUT .\Visualizacao\ProblemasRepresentacionSimbolos.pdf
+INPUT .\Visualizacao\ProblemasRepresentacionSimbolos.pdf
+INPUT .\Visualizacao\ProblemasRepresentacionSimbolos.pdf
+INPUT .\Visualizacao\ProblemasRepresentacionSimbolos.pdf
+INPUT .\Visualizacao\RepresentacionSaturada.png
+INPUT .\Visualizacao\RepresentacionSaturada.png
+INPUT .\Visualizacao\RepresentacionSaturada.png
+INPUT .\Visualizacao\RepresentacionSaturada.png
+INPUT .\Visualizacao\RepresentacionSaturada.png
+INPUT .\Visualizacao\RepresentacionSaturada.png
+INPUT .\Visualizacao\RepresentacionSaturada.png
+INPUT librosig.aux
+INPUT .\Introducao\Introduccion.aux
+INPUT .\Introducao\Introduccion.aux
+INPUT Introducao\Introduccion.aux
+INPUT .\Historia\Historia.aux
+INPUT .\Historia\Historia.aux
+INPUT Historia\Historia.aux
+INPUT .\Fundamentos_cartograficos\Fundamentos_cartograficos.aux
+INPUT .\Fundamentos_cartograficos\Fundamentos_cartograficos.aux
+INPUT Fundamentos_cartograficos\Fundamentos_cartograficos.aux
+INPUT .\Dados\Datos.aux
+INPUT .\Dados\Datos.aux
+INPUT Dados\Datos.aux
+INPUT .\Fontes_dados\Fuentes_datos.aux
+INPUT .\Fontes_dados\Fuentes_datos.aux
+INPUT Fontes_dados\Fuentes_datos.aux
+INPUT .\Software\Software.aux
+INPUT .\Software\Software.aux
+INPUT Software\Software.aux
+INPUT .\Bases_dados\Bases_datos.aux
+INPUT .\Bases_dados\Bases_datos.aux
+INPUT Bases_dados\Bases_datos.aux
+INPUT .\Analises\Analisis.aux
+INPUT .\Analises\Analisis.aux
+INPUT Analises\Analisis.aux
+INPUT .\Visualizacao\Visualizacion.aux
+INPUT .\Visualizacao\Visualizacion.aux
+INPUT Visualizacao\Visualizacion.aux
+INPUT C:\Users\Melanda\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\Melanda\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\Melanda\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0800.pk
+INPUT C:\Users\Melanda\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0800.pk
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
